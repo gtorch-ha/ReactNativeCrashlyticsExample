@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "556128867985",
+    "project_id": "reactnativefirebasecrashlytics",
+    "storage_bucket": "reactnativefirebasecrashlytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556128867985:android:47a2a7205514dfe7495130",
+        "android_client_info": {
+          "package_name": "com.reactnativecrashlyticsexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556128867985-k50jpaq0qeb5qn082d5fn09a9udamgm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDihhxkIWGEFwsTlOHZ0W4OJYPsbY_37Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556128867985-k50jpaq0qeb5qn082d5fn09a9udamgm5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "556128867985-onrr1aj4vfvg2vegi9o2als6g9ma7vpq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reactnative.crashlyticsapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
